@@ -2,3 +2,8 @@ numpy
 opencv-python
 matplotlib
 torch
+scipy
+torchvision
+nibabel 
+huggingface_hub 
+monai
